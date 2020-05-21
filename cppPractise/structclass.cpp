@@ -41,7 +41,7 @@ int main()
 {
     Car c1;
     Scooter s;
-    c1.add(4 , "sedan");
+    c1.add(4 , "hatchback");
     //c1.add(4, "SUV");
     Lorry c2;
     //c2.add(6 , "MiniLOrry");
